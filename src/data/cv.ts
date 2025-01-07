@@ -1,7 +1,7 @@
 export const CV = {
   name: "Blazej Mrozinski",
   title: "Chief Product Officer & Psychometrics Lead",
-  photo: "/profile.jpg",
+  photo: "/profile.png",
   summary: "Experienced researcher with expertise in behavioral psychology and data science",
   experience: [
     {
