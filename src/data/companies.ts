@@ -14,13 +14,6 @@ export const companies = [
     link: "https://seosavages.com"
   },
   {
-    name: "Prawomat",
-    role: "Co-founder",
-    logo: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    description: "Legal tech platform providing automated legal solutions for businesses and individuals.",
-    link: "https://prawomat.com"
-  },
-  {
     name: "Feel Myself",
     role: "Founder",
     logo: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
