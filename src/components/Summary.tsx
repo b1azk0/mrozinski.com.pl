@@ -29,7 +29,7 @@ export const Summary = () => {
         </p>
 
         <p className="text-base leading-relaxed text-gray-700">
-          Beyond Gyfted, I'm an <strong>entrepreneur and founder</strong> of projects like <strong>SEO Savages, Prawomat, and FeelMyself</strong>. From <strong>boutique SEO strategies</strong> to <strong>e-commerce innovations</strong>, I excel at combining analytical insight with practical execution to deliver measurable results across diverse industries.
+          Beyond Gyfted, I'm an <strong>entrepreneur and founder</strong> of projects like <strong>SEO Savages, and FeelMyself</strong>. From <strong>boutique SEO strategies</strong> to <strong>e-commerce innovations</strong>, I excel at combining analytical insight with practical execution to deliver measurable results across diverse industries.
         </p>
 
         {showMore && (
